@@ -1,0 +1,8 @@
+Siha - ('localhost', 8888)
+Router - ('localhost', 7777) ???
+GroundStation - ('localhost', 6666)
+RaspberryPi - ('localhost', 5555)
+Teknofest - ('localhost', 4444)
+
+AllTestServers - ('localhost', 4444)
+allTestClients - ('localhost', 5555)

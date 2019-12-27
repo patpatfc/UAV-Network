@@ -1,0 +1,16 @@
+SihaDataPublisher - ('localhost', 8888)
+SihaDataReceiver - ('localhost', 7777)
+
+
+
+GroundStationDataReceiverFromSiha - ('localhost', 7777)
+GroundStationDataPublisherToSiha - ('localhost', 8888)
+
+GroundStationDataPublisherTo - ('localhost', 6666)
+
+
+RaspberryPi - (RPi_IP, 6666)
+Teknofest - ('localhost', 4444)
+
+AllIndividualTestServers - ('localhost', 4444)
+allTestClients - ('localhost', 5555)
