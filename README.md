@@ -1,1 +1,3 @@
-# SIHA-FUAV
+# UAV Network Structure 
+
+![Network diagram](/images/logo.png)
