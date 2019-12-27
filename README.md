@@ -1,3 +1,3 @@
 # UAV Network Structure 
 
-![Network diagram](/images/logo.png)
+![Network diagram](/images/UAVNetworkDiagram.png)
