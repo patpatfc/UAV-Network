@@ -1,3 +1,3 @@
 # UAV Network Structure 
 
-![Network diagram](https://github.com/patpatfc/UAV-Network/master/images/UAVNetworkDiagram.pdf)
+![Network diagram](https://raw.githubusercontent.com/patpatfc/UAV-Network/master/images/UAVNetworkDiagram.pdf)
